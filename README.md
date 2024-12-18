@@ -23,7 +23,7 @@ I am eager to continue expanding my knowledge in this field and am particularly 
 
 ## 📫 Contact me!...
 <ul>
-  <li>💼 LinkedIn: <a href="[linkedin.com/in/samuel-estrada-1a2401274](https://www.linkedin.com/in/samuel-estrada-1a2401274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgIdEuO8DREGvkfN3eBxeng%3D%3D)">Samuel Estrada</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/samuel-estrada-1a2401274lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgIdEuO8DREGvkfN3eBxeng%3D%3D)">Samuel Estrada</a></li>
 </ul>
 
 <hr>
