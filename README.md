@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**sjassest/sjassest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello!
+<p>My name is Samuel Estrada, and I am currently studying a major in Industrial Economics. 
+I love spending my free time learning programming as a tool to enhance my skills, and at the same time, I enjoy learning new things</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Right now I am practicing and learning data science, but I'm also into web design...
+
+- **The latest project I made** called <strong>FAJS B</strong> 
+  - <ul>
+    <li>🔹 It is a website I built for an e-commerce project during my marketing course in college </li>
+    <li>🔹 The foundation for this project was the use of HTML, CSS, and JavaScript</li>
+  </ul>
+  
+<p>
+My background in Industrial Economics has led me to develop strong skills in econometrics, and I have been actively using programming languages like Python and R to apply econometric techniques. I am passionate about data analysis and have been focusing on building robust models and extracting meaningful insights from data.
+I am eager to continue expanding my knowledge in this field and am particularly interested in learning SQL and similar tools for data manipulation. I believe these skills will enhance my ability to manage and analyze large datasets effectively.
+</p>
+<hr>
+
+## 📫 Contact me!...
+<ul>
+  <li>💼 LinkedIn: <a href="linkedin.com/in/samuel-estrada-1a2401274">Tu perfil de LinkedIn</a></li>
+</ul>
+
+<hr>
+
+Thank you for visiting my profile and taking an interest in my projects and skills. I am always open to new learning opportunities and collaborations. 🙌
