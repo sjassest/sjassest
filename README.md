@@ -9,8 +9,8 @@ I love spending my free time learning programming as a tool to enhance my skills
 
 **The latest project I made** called <strong>FAJS B</strong> 
   <ul>
-    🔹 It is a website I built for an e-commerce project during my marketing course in college </li>
-    🔹 The foundation for this project was the use of HTML, CSS, and JavaScript</li>
+    <li>🔹 It is a website I built for an e-commerce project during my marketing course in college </li>
+    <li>🔹 The foundation for this project was the use of HTML, CSS, and JavaScript</li>
   </ul>
   
 <p>
