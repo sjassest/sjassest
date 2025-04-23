@@ -14,18 +14,18 @@ I love spending my free time learning programming as a tool to enhance my skills
   </ul>
   
 <p>
-My background in Industrial Economics has led me to develop strong skills in econometrics, and I have been actively using programming languages like Python and R to apply econometric techniques. I am passionate about data science. I would like to design robust models, and I am fascinated by all the valuable information that can be extracted from data.
+My background in Industrial Economics has led me to develop strong skills in econometrics, and I have been actively using programming languages like Python and R to apply econometric techniques. I am passionate about data science. 
 </p>
 <p>
 I am eager to continue expanding my knowledge in this field, am also particularly interested in learning SQL and similar tools for data manipulation.
 </p>
 <hr>
 
-## 📫 Contact me!...
+## 📫 
 <ul>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/samuel-estrada-1a2401274">Samuel Estrada</a></li>
 </ul>
 
 <hr>
 
-Thank you for visiting my profile and taking an interest in my projects and skills. I am always open to new learning opportunities and collaborations. 🙌
+Thank you for visiting my profile and taking an interest in my projects and skills. I am always open to new learning opportunities. 🙌
